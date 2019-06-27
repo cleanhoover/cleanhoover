@@ -2923,7 +2923,7 @@
 
 	#banner {
 		padding: 8em 0 9em 0;
-		background-image: url(../../images/outdoors-bg-1.jpg);
+		background-image: url(../../images/free-unSplash-1.jpg);
 		
 		background-size: cover;
 		background-position: bottom;
@@ -2966,7 +2966,7 @@
 			color: white;
 			margin: 0;
 			font-size: 1.5em;
-			filter: contrast(500%);
+			filter: contrast(500%) drop-shadow(2px 2px 2px black) brightness(2);
 		}
 
 		#banner .icon {
@@ -2978,7 +2978,7 @@
 			font-size: 1.2em;
 			color: #6cc091;
 			margin-bottom: 1.75em;
-			filter: contrast(300%);
+			filter: contrast(300%) drop-shadow(2px 2px 2px black) brightness(1);
 			word-wrap: normal;
 		}
 
