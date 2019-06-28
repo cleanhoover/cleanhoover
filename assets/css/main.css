@@ -1762,7 +1762,24 @@
 	.align-right {
 		text-align: right;
 	}
+	.social {
+		width: 100%;
+	}
+		@media screen and (max-width: 1280px) {
 
+			.social {
+				max-width: 90%;
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			.social {
+				max-width: 90%;
+			}
+
+		}
 	.inner {
 		max-width: 75em;
 		margin: 0 auto;
@@ -2210,6 +2227,7 @@
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		color: white;
 	}
 
 		.icon:before {
