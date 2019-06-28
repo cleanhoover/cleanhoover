@@ -1784,7 +1784,22 @@
 
 		}
 
-/* Section/Article */
+/* Section/Article/calendar */
+	.googleCalendar{
+		position: relative;
+		text-align: center;
+		height: 0;
+		width: 100%;
+		padding-bottom: 50%;
+	}
+	
+	.googleCalendar iframe{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
 
 	section.special, article.special {
 		text-align: center;
@@ -2700,7 +2715,7 @@
 	}
 
 		.subpage #header {
-			background: #6cc091;
+			background: #49aa5b;
 			top: 0;
 			height: 44px;
 			line-height: 44px;
