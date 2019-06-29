@@ -63,4 +63,20 @@
 
 	});
 
+	//Contact form on index.html handler
+	// var $form = $('form#contactForm'),
+	// 	url = 'https://script.google.com/macros/s/AKfycbytcO-nbU02kEX6yJZyHril4mDAhGYcTrMNdiQg0za7ocyuWvU/exec'
+	
+	// $('#submit-form').on('click', function(e) {
+	// 	e.preventDefault();
+	// 	var jqxhr = $.ajax({
+	// 		url: url,
+	// 		method: "GET",
+	// 		dataType: "json",
+	// 		data: $form.serializeObject()
+	// 	}).success(
+	// 		// add link site 
+	// 	);
+	// })
+
 })(jQuery);
