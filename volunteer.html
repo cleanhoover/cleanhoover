@@ -47,22 +47,22 @@
 					<!-- <div class="signupForm">
 						<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScQQLFNH-i13OX88_KoBldTXCKv00aPnkNhzY5PtcjVewijkw/viewform?embedded=true" width="640" height="1193" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 					</div> -->
-				<form id="volunteerForm" action="https://docs.google.com/forms/d/e/1FAIpQLScQQLFNH-i13OX88_KoBldTXCKv00aPnkNhzY5PtcjVewijkw/formResponse" method="POST">
+				<form id="volunteerForm">
 					<div class="field half first">
 						<label for="name">First and last name</label>
-						<input name="entry.101066111" id="name" type="text" placeholder="Name">
+						<input name="name" id="name" type="text" placeholder="Name">
 					</div>
 					<div class="field half">
 						<label for="name">Chosen Volunteer Date (Day only)</label>
-						<input name="entry.931954200" id="vDate" type="text" placeholder="Day only">
+						<input name="date" id="vDate" type="text" placeholder="Day only">
 					</div>
 					<div class="field half">
 						<label for="email">Email</label>
-						<input name="emailAddress" id="email" type="email" placeholder="Email">
+						<input name="email" id="email" type="email" placeholder="Email">
 					</div>
 					<div class="field">
 						<label for="message">Tell us a bit about yourself</label>
-						<textarea name="entry.1694582557" id="message" rows="6" placeholder="Message"></textarea>
+						<textarea name="bio" id="message" rows="6" placeholder="Message"></textarea>
 					</div>
 					<ul class="actions">
 						<li><input value="Send Message" class="button alt" type="submit" id="submit-form"></li>
@@ -88,6 +88,6 @@
 			<script src="assets/js/skel.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-
+			<script src="assets/js/google-sheets-volunteer.js"></script>
 	</body>
 </html>
