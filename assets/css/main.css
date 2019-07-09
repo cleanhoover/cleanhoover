@@ -2857,7 +2857,9 @@
 	}
 
 /* Nav */
-
+	#nav {
+		background: #4bae77;
+	}
 	@media screen and (max-width: 980px) {
 
 		#nav {
@@ -2865,7 +2867,6 @@
 		}
 
 	}
-
 	#navPanel {
 		-moz-transform: translatex(20em);
 		-webkit-transform: translatex(20em);
@@ -2888,6 +2889,7 @@
 		width: 20em;
 		padding: 0.5em 1.25em;
 		z-index: 10010;
+		float: right;
 	}
 
 		#navPanel.visible {
@@ -2985,6 +2987,7 @@
 			position: relative;
 			z-index: 10005;
 			padding-top: 8em;
+			
 		}
 
 		#banner h1 {

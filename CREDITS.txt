@@ -3,4 +3,4 @@ All images courtesy of Unsplash (https://unsplash.com).
 - Photo by Sandra Ahn Mode on Unsplash (https://unsplash.com/photos/VBKk-gAkckw)
 ----- WaterForest.jpg
 - Photo by Jenny Caywood on unsplash (https://unsplash.com/@jennycaywood)
------ nav.jpg
+----- navbar.jpg
