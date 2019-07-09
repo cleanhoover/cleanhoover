@@ -2736,7 +2736,7 @@
 	}
 
 		.subpage #header {
-			background: #6cc091;
+			background: #04a748;
 			top: 0;
 			height: 44px;
 			line-height: 44px;
@@ -2763,6 +2763,7 @@
 		#header .inner {
 			margin: 0 auto;
 			position: relative;
+			
 		}
 
 		#header .logo {
@@ -2777,6 +2778,7 @@
 			position: absolute;
 			top: 0;
 			font-size: 1em;
+			
 		}
 
 			#header .logo strong {
@@ -2794,6 +2796,7 @@
 			color: black;
 			text-decoration: none;
 			font-size: 1em;
+			color: white;
 		}
 
 			#header a:hover {
