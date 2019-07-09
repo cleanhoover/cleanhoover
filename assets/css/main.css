@@ -2791,7 +2791,7 @@
 			transition: color 0.2s ease-in-out;
 			display: inline-block;
 			padding: 0 0.75em;
-			color: rgb(11, 92, 11);
+			color: white;
 			text-decoration: none;
 			font-size: 1em;
 		}
@@ -2857,9 +2857,7 @@
 	}
 
 /* Nav */
-	#nav {
-		background: #4bae77;
-	}
+	
 	@media screen and (max-width: 980px) {
 
 		#nav {
@@ -2883,13 +2881,13 @@
 		right: 0;
 		top: 0;
 		background: #6cc091;
-		color: #daefe3;
+		color: white;
 		height: 100%;
 		max-width: 80%;
 		width: 20em;
 		padding: 0.5em 1.25em;
 		z-index: 10010;
-		float: right;
+		
 	}
 
 		#navPanel.visible {
@@ -2961,8 +2959,7 @@
 
 	#banner {
 		padding: 8em 0 9em 0;
-		background-image: url(../../images/waterForest.jpg);
-		
+		background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../../images/waterForest.jpg);
 		background-size: cover;
 		background-position: left top;
 		background-attachment: fixed;
@@ -3017,7 +3014,7 @@
 			font-size: 1.2em;
 			color: #6cc091;
 			margin-bottom: 1.75em;
-			filter: contrast(200%) drop-shadow(2px 2px 2px black) brightness(1);
+			filter: contrast(200%) brightness(1);
 			word-wrap: normal;
 		}
 
