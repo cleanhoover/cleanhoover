@@ -2278,7 +2278,7 @@
 		}
 
 			.image.left img, .image.right img {
-				width: 100%;
+				width: 80%;
 			}
 
 		.image.round img {
@@ -2749,7 +2749,7 @@
 	}
 
 		.subpage #header {
-			background: #04a748;
+			background: #1c8146;
 			top: 0;
 			height: 44px;
 			line-height: 44px;
