@@ -5,7 +5,7 @@ Clean Hoover Initiative Site
 
 - [x] Add social media links to footer 
 - [x] Fix contact form
-- [ ] Fix Google Calendar integration on mobile site
+- [x] Fix Google Calendar integration on mobile site
 - [x] Make the volunteer form HTML with Google Sheets integration for backend
 - [ ] Add events page
 - [ ] Add news page
