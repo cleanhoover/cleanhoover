@@ -2195,11 +2195,18 @@
 	}
 
 /* Box */
-
 	.box {
-		border: solid 1px #dbdbdb;
+		border: solid 2px #dbdbdb;
 		margin-bottom: 2em;
 		padding: 1.5em;
+		flex-basis: 60%;
+		/* display:inline-block; */
+		border-radius: 1.4em;
+	}
+	@media screen and (max-width: 480px) {
+		.box {
+			flex-basis: 100%;
+		}
 	}
 
 		.box > :last-child,
@@ -3166,9 +3173,24 @@
 
 		}
 
+/* Leadership page stuff */
+.people {
+	display:flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	
+	
+}
+.personDesc {
+	display: inline-block;
+	top:0;
+}
+
+
 /* Footer */
 
 	#footer {
+		bottom: 0;
 		padding: 6em 0;
 		background: #6cc091;
 		color: #fff;
