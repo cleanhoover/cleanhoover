@@ -31,7 +31,6 @@
 		line-height: 1;
 		scroll-behavior: smooth;
 	}
-
 	ol, ul {
 		list-style: none;
 	}
@@ -2749,7 +2748,11 @@
 	}
 
 		.subpage #header {
-			background: #1c8146;
+			/* background: #1c8146; */
+			background-image: url('/images/navbar.jpg');
+			background-clip: padding-box;
+			background-position: center;
+			
 			top: 0;
 			height: 44px;
 			line-height: 44px;
