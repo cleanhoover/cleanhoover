@@ -12,3 +12,4 @@ Clean Hoover Initiative Site
 - [ ] Add about page
 - [x] Add leadership page
 - [ ] Dynamically filled news page
+- [x] Wordpress news page(https://cleanhoover.news.blog)
