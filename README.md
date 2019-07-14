@@ -8,7 +8,7 @@ Clean Hoover Initiative Site
 - [x] Fix Google Calendar integration on mobile site
 - [x] Make the volunteer form HTML with Google Sheets integration for backend
 - [ ] Add events page
-- [ ] Add news page
-- [ ] Dynamically filled news page  
+- [x] Add news page  
 - [ ] Add about page
-- [ ] Add leadership page
+- [x] Add leadership page
+- [ ] Dynamically filled news page
