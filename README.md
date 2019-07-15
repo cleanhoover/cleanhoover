@@ -11,5 +11,5 @@ Clean Hoover Initiative Site
 - [x] Add news page  
 - [ ] Add about page
 - [x] Add leadership page
-- [ ] Dynamically filled news page - FInd backend services
+- [ ] Dynamically filled news page - (FInd backend services)
 - [x] Wordpress news page(https://cleanhoover.news.blog)

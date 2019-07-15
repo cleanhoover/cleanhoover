@@ -2834,7 +2834,7 @@
 			}
 
 				#header a.navPanelToggle .fas {
-					font-size: 1.25em;
+					font-size: 1.25em !important;
 				}
 
 				@media screen and (max-width: 980px) {
@@ -3208,7 +3208,6 @@
 
 		#footer .social {
 			padding: 0 auto;
-			
 		}
 
 		#footer label {
