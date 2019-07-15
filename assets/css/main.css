@@ -2833,7 +2833,7 @@
 				
 			}
 
-				#header a.navPanelToggle .fa {
+				#header a.navPanelToggle .fas {
 					font-size: 1.25em;
 				}
 
@@ -2918,6 +2918,7 @@
 			transform: translatex(0);
 			/* box-shadow: 0 0 1.5em 0 rgba(0, 0, 0, 0.2); */
 			visibility: visible;
+			color: white;
 		}
 
 		#navPanel a:not(.close) {
