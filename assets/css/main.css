@@ -3206,6 +3206,11 @@
 			margin-bottom: 2em !important;
 		}
 
+		#footer .social {
+			padding: 0 auto;
+			
+		}
+
 		#footer label {
 			text-align: left;
 			color: #FFF;
