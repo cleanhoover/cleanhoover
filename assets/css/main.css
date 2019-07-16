@@ -2981,7 +2981,7 @@
 
 	#banner {
 		padding: 8em 0 9em 0;
-		background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../../images/waterForest.jpg);
+		background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("../../images/banner.webp");
 		background-size: cover;
 		background-position: left top;
 		background-attachment: fixed;
