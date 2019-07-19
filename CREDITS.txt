@@ -1,6 +1,0 @@
-# Image Credits
-All images courtesy of Unsplash (https://unsplash.com).
-- Photo by ANGELA BENITO on Unsplash (https://unsplash.com/@angelareinosa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
------ WaterForest.jpg
-- Photo by Nikita Tikhomirov on Unsplash (https://unsplash.com/photos/wlo2JlSgwyM)
------ navbar.jpg
